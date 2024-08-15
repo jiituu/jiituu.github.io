@@ -16,13 +16,20 @@ Through various initiatives, I am committed to bridging the gap between technolo
 
 News
 ======
-August 2024: I’m excited to announce that I’ve been selected to participate in a one-year research program focused on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/), one of the [FAccT DEI](https://facctconference.org/2024/deischolars) Scholars for 2024. This program will involve conducting in-depth research on evaluating gender bias in the systems we build and commercially available ones. This opportunity aligns perfectly with my academic and professional interests, offering me the chance to contribute to a field that is not only technically challenging but also socially impactful.
+August 2024: I’m excited to announce that I’ve been selected to participate in a one-year research program focused on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/), one of the [FAccT DEI](https://facctconference.org/2024/deischolars) Scholars for 2024. This program will involve conducting in-depth research on evaluating gender bias in the systems we build and commercially available ones.Excited to contribute and learn!
+
+July  2024:  I am delighted to be featured in a Facebook post by [Girl Effect](https://www.facebook.com/share/qrh7zueev2yXtBT6/?mibextid=xfxF2i). Being recognized by such an inspiring organization, from which I have gained so much insight and experience, is truly gratifying. The post highlights my journey as a software engineering student and my dedication to women’s empowerment and equality. I am thankful for the opportunity to be part of their impactful work.
+
 
 May 2024: I am happy to share that I have been selected for a one-year internship at [YeneHealth](https://yenehealth.com/), a femTech company dedicated to advancing women's healthcare through technology. My role involves supporting the IT team and contributing to the development of digital health solutions. This ongoing experience allows me to combine my passion for technology with my commitment to improving women's healthcare.
 
 August 2023:  I am happy to announce that I have been given the dual role of Social Media Manager and Website Developer at [Ubuntu School of Life](https://ubuntuschooloflife.org/). In this position, I continue to gain hands-on experience by managing the school’s online presence and maintaining its website. This role has deepened my understanding of digital communication and its impact on education. It provides me with a valuable opportunity to apply my technical skills in a real-world setting while supporting the school’s mission.
 
+April 27, 2023: I had the privilege of participating in the Girls in ICT Day celebration organized by the [ITU](https://www.itu.int/women-and-girls/girls-in-ict/international-girls-in-ict-day-2023/#:~:text=Girls%20in%20ICT%20Day%20is%20now%20a%20global%20movement%2C%20with,Date%3A%2027%20April%202023 ) Regional Office in Addis Ababa, Ethiopia. Held at the United Nations Economic Commission for Africa ([UNECA](https://www.uneca.org/)) Conference Centre, this national event brought together mentors, young women, and girls to exchange experiences and share knowledge on digital skills for life. The celebration aimed to address the digital gender divide and promote opportunities in ICT for young women and girls.
+
+
+ October 2022: I had the honor of being featured in an article by [Gavi, the Vaccine Alliance](https://www.gavi.org/vaccineswork/how-story-telling-helping-girls-access-hpv-vaccine-ethiopia-and-tanzania), highlighting my role as a member of the Ethiopia Youth Advisory Panel for Girl Effect. The article underscores my commitment to advocating for the HPV vaccine and its critical role in reducing cervical cancer rates.
+
+
 August 2021: I am excited to share that I have been accepted as a Youth Advisor for [Girl Effect](https://girleffect.org/)/[የኛ](https://yegna.com/en-gb/), representing Ethiopian youth in variou national initiatives. In this role, I advocate for youth empowerment, address issues affecting youth and adolescents in Ethiopia, and ensure that young voices are integral to decision-making processes. This ongoing experience allows me to contribute meaningfully to initiatives aimed at uplifting and empowering young people worldwide.
 
-Getting started
-======
