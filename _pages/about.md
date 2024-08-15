@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-My name is Jitu Ewnetu 😊, and I am currently an undergraduate student majoring in Software Engineering at Addis Ababa University. My academic journey is driven by a passion for technology and innovation, particularly in how these can be harnessed to address societal challenges and create meaningful change 🌍.
+My name is Jitu Ewnetu 😊, and I am currently an undergraduate student majoring in Software Engineering at Addis Ababa University. My academic journey is driven by a passion for technology and innovation, particularly in how these can be harnessed to address societal challenges and create meaningful change.
 
 Beyond my studies, I am deeply invested in social impact and youth empowerment . I believe in the transformative power of technology not just as a tool for development, but as a catalyst for enabling the next generation to achieve their full potential 🚀.
 
@@ -25,7 +25,7 @@ Through various initiatives, I am committed to bridging the gap between technolo
 
 **August 2023**: I am happy to announce that I have been given the dual role of Social Media Manager and Website Developer at [Ubuntu School of Life](https://ubuntuschooloflife.org/) 🌐. In this position, I continue to gain hands-on experience by managing the school’s online presence and maintaining its website. This role has deepened my understanding of digital communication and its impact on education 🎓. It provides me with a valuable opportunity to apply my technical skills in a real-world setting while supporting the school’s mission. 
 
-**April 27, 2023**: I had the privilege of participating in the Girls in ICT Day celebration organized by the [ITU](https://www.itu.int/women-and-girls/girls-in-ict/international-girls-in-ict-day-2023/#:~:text=Girls%20in%20ICT%20Day%20is%20now%20a%20global%20movement%2C%20with,Date%3A%2027%20April%202023 ) Regional Office in Addis Ababa, Ethiopia 🌍. Held at the United Nations Economic Commission for Africa ([UNECA](https://www.uneca.org/)) Conference Centre, this national event brought together mentors, young women, and girls to exchange experiences and share knowledge on digital skills for life 💡. The celebration aimed to address the digital gender divide and promote opportunities in ICT for young women and girls. 👩‍💻
+**April 27, 2023**: I had the privilege of participating in the Girls in ICT Day celebration organized by the [ITU](https://www.itu.int/women-and-girls/girls-in-ict/international-girls-in-ict-day-2023/#:~:text=Girls%20in%20ICT%20Day%20is%20now%20a%20global%20movement%2C%20with,Date%3A%2027%20April%202023 ) Regional Office in Addis Ababa, Ethiopia. Held at the United Nations Economic Commission for Africa ([UNECA](https://www.uneca.org/)) Conference Centre, this national event brought together mentors, young women, and girls to exchange experiences and share knowledge on digital skills for life 💡. The celebration aimed to address the digital gender divide and promote opportunities in ICT for young women and girls.
 
 **October 2022**: I had the honor of being featured in an article by [Gavi, the Vaccine Alliance](https://www.gavi.org/vaccineswork/how-story-telling-helping-girls-access-hpv-vaccine-ethiopia-and-tanzania) 🌟, highlighting my role as a member of the Ethiopia Youth Advisory Panel for Girl Effect. The article underscores my commitment to advocating for the HPV vaccine and its critical role in reducing cervical cancer rates 🎗️.
 
