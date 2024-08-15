@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of science in Software Engineering , Addis Ababa University, 2025 (expected)
+<!-- * M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2021: Youth Advisor/Youth Ambassador
+  * [Girl Effect](https://www.girleffect.org)
+  * Duties includes: Represent the youth in various sociatal initiatives,
+  * Supervisor: [Elizabeth zewdu](https://www.linkedin.com/in/elizabethzewedu/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2023: Social media manager
+  * [ubuntu school of life](https://ubuntuschooloflife.org)
+  * Duties included: Generate creative and visually
+appealing posts, including graphics,
+images, and videos, to convey the
+company's message effectively
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Software Engineering Intern
+  * [YeneHealth](https://yenehealth.com/)
+  * Duties included: Help the software  team maintain the website and mobile application
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: HTML, CSS,
+JavaScript, Python, Dart (Learning)
+* Front-endFrameworks:React.js, Firebase
+* Mobile App Development: Flutter (learning)
+* UI/UX Design: Wireframing, Canva, Figma
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently serving as on call basis advisor for [girl effect](https://girleffect.org)
