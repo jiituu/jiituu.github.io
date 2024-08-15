@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * Bachelor of science in Software Engineering , Addis Ababa University, 2025 (expected)
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012 -->
+
 
 Work experience
 ======
@@ -23,7 +22,7 @@ Work experience
   * Supervisor: [Elizabeth zewdu](https://www.linkedin.com/in/elizabethzewedu/)
 
 * September 2023: Social media manager
-  * [ubuntu school of life](https://ubuntuschooloflife.org)
+  * [Ubuntu School of Life](https://ubuntuschooloflife.org)
   * Duties included: Generate creative and visually
 appealing posts, including graphics,
 images, and videos, to convey the
@@ -35,10 +34,10 @@ company's message effectively
   
 Skills
 ======
-* Programming Languages: HTML, CSS,
-JavaScript, Python, Dart (Learning)
-* Front-endFrameworks:React.js, Firebase
-* Mobile App Development: Flutter (learning)
+* Programming Languages: HTML, CSS
+JavaScript, Python, Dart(Learning)
+* Front-end Frameworks: React.js, Firebase
+* Mobile App Development: Flutter(learning)
 * UI/UX Design: Wireframing, Canva, Figma
 
 
