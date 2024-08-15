@@ -28,7 +28,7 @@ appealing posts, including graphics,
 images, and videos, to convey the
 company's message effectively
 
-* Summer 2015: Software Engineering Intern
+* May 2024: Software Engineering Intern
   * [YeneHealth](https://yenehealth.com/)
   * Duties included: Help the software  team maintain the website and mobile application
   
