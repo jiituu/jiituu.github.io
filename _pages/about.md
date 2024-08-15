@@ -16,21 +16,13 @@ Through various initiatives, I am committed to bridging the gap between technolo
 
 News
 ======
-August 2024: Selected for a Research Program in Machine Translation and Gender Bias Evaluation
+August 2024: I’m excited to announce that I’ve been selected to participate in a one-year research program focused on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/), one of the [FAccT DEI](https://facctconference.org/2024/deischolars) Scholars for 2024. This program will involve conducting in-depth research on evaluating gender bias in the systems we build and commercially available ones. This opportunity aligns perfectly with my academic and professional interests, offering me the chance to contribute to a field that is not only technically challenging but also socially impactful.
 
-I’m excited to announce that I’ve been selected to participate in a one-year research program focused on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/), one of the [FAccT DEI](https://facctconference.org/2024/deischolars) Scholars for 2024. This program will involve conducting in-depth research on evaluating gender bias in the systems we build and commercially available ones. This opportunity aligns perfectly with my academic and professional interests, offering me the chance to contribute to a field that is not only technically challenging but also socially impactful.
+May 2024: I am happy to share that I have been selected for a one-year internship at [YeneHealth](https://yenehealth.com/), a femTech company dedicated to advancing women's healthcare through technology. My role involves supporting the IT team and contributing to the development of digital health solutions. This ongoing experience allows me to combine my passion for technology with my commitment to improving women's healthcare.
 
-May 2024: Interning at YeneHealth
+August 2023:  I am happy to announce that I have been given the dual role of Social Media Manager and Website Developer at [Ubuntu School of Life](https://ubuntuschooloflife.org/). In this position, I continue to gain hands-on experience by managing the school’s online presence and maintaining its website. This role has deepened my understanding of digital communication and its impact on education. It provides me with a valuable opportunity to apply my technical skills in a real-world setting while supporting the school’s mission.
 
-I am happy to share that I have been selected for a one-year internship at [YeneHealth](https://yenehealth.com/), a femTech company dedicated to advancing women's healthcare through technology. My role involves supporting the IT team and contributing to the development of digital health solutions. This ongoing experience allows me to combine my passion for technology with my commitment to improving women's healthcare.
-
-August 2023: Social Media Manager and Website Developer at Ubuntu School of Life
-
-I am happy to announce that I have been given the dual role of Social Media Manager and Website Developer at [Ubuntu School of Life](https://ubuntuschooloflife.org/). In this position, I continue to gain hands-on experience by managing the school’s online presence and maintaining its website. This role has deepened my understanding of digital communication and its impact on education. It provides me with a valuable opportunity to apply my technical skills in a real-world setting while supporting the school’s mission.
-
-August 2021: Serving as Youth Advisor at [Girl Effect](https://girleffect.org/)/ yegna/[የኛ](https://yegna.com/en-gb/)
-
-I am excited to share that I have been accepted as a Youth Advisor for Girl Effect, representing Ethiopian youth in variou national initiatives. In this role, I advocate for youth empowerment, address issues affecting youth and adolescents in Ethiopia, and ensure that young voices are integral to decision-making processes. This ongoing experience allows me to contribute meaningfully to initiatives aimed at uplifting and empowering young people worldwide.
+August 2021: I am excited to share that I have been accepted as a Youth Advisor for [Girl Effect](https://girleffect.org/)/[የኛ](https://yegna.com/en-gb/), representing Ethiopian youth in variou national initiatives. In this role, I advocate for youth empowerment, address issues affecting youth and adolescents in Ethiopia, and ensure that young voices are integral to decision-making processes. This ongoing experience allows me to contribute meaningfully to initiatives aimed at uplifting and empowering young people worldwide.
 
 Getting started
 ======
