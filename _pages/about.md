@@ -17,6 +17,9 @@ Through various initiatives, I am committed to bridging the gap between technolo
 
 **News**
 ======
+
+**November 2024**:  I am proud to share that I was featured in Addis Zemen 📰, a well-known newspaper, where I had the opportunity to inspire young girls by sharing my story and journey 🌟. Being recognized in such a reputable publication is truly rewarding and reinforces my commitment to empowering others 🙌. [Here is the link to my article](https://press.et/?p=140070) 
+
 **August 2024**: I’m excited to announce that I’ve been selected to participate in a one-year research program focused on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/) , one of the [FAccT DEI](https://facctconference.org/2024/deischolars) Scholars for 2024. This program will involve conducting in-depth research on evaluating gender bias in the systems we build and commercially available ones. Excited to contribute and learn! ✨
 
 **July 2024**: I am delighted to be featured in a post by [Girl Effect](https://www.facebook.com/share/qrh7zueev2yXtBT6/?mibextid=xfxF2i) 🌟. Being recognized by such an inspiring organization, from which I have gained so much insight and experience, is truly gratifying. The post highlights my journey as a software engineering student and my dedication to women’s empowerment and equality . I am thankful for the opportunity to be part of their impactful work. 🙏
